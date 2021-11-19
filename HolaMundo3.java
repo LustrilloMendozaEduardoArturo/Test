@@ -6,6 +6,7 @@ public class HolaMundo3
 		System.out.println("Hola ANdy" );
 		System.out.println("Hola Lalo" );
                 System.out.println("Hola Valeria");
+		System.out.println("Hola profe");
 		System.out.println("Hola Osuna Arturo");
 	}
 }
